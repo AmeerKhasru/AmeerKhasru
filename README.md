@@ -41,11 +41,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://gprm.itsvg.in/api?username=AmeerKhasru&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmeerKhasru&show_icons=true&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://gprm.itsvg.in/api/top-langs?username=AmeerKhasru&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerKhasru&layout=compact&theme=radical&hide_border=true)
 ---
