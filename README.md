@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Muhammad Amir Khasru
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AmeerKhasru&color=blue&style=flat-square" alt="profile views" />
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:muhammadamirkhasru@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 * 🌱 I’m currently transitioning into **Frontend & Software Engineering** after a strong foundation in **Network Engineering**.
 * 💡 Passionate about building responsive, user-centric web applications and learning modern web technologies.
 * 🎓 Graduate in Computer Science and Engineering (CSE) from BGC Trust University Bangladesh.
-* 🤝 Actively involved in community leadership, serving as Vice President of the CSE Alumni Association (BGCTUB) and Financial Secretary of Rotaract Club Metrocity Chittagong.
+* 🤝 Actively involved in community leadership, serving as Publicity and Publication Secretary of the CSE Alumni Association (BGCTUB) and Financial Secretary of Rotaract Club Metrocity Chittagong.
 
 ---
 
