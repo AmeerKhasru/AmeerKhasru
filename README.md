@@ -39,12 +39,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://gprm.itsvg.in/api?username=AmeerKhasru&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
 ### 🔥 GitHub Streak
 
 <p align="center">
