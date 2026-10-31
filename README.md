@@ -41,7 +41,7 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://gprm.itsvg.in/api?username=AmeerKhasru&show_icons=true&theme=radical&hide_border=true)
+### 🔥 GitHub Streak
 
-![Top Languages](https://gprm.itsvg.in/api/top-langs?username=AmeerKhasru&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmeerKhasru&theme=radical&hide_border=true)
 ---
