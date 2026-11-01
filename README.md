@@ -35,7 +35,7 @@
   * A modern book tracking application built with React, ensuring seamless local storage persistence and clean UI components.
 
 - 🦸 **[Hero-io](https://github.com/AmeerKhasru/hero-io)**  
-  * A fully responsive web application deployed smoothly across production platforms like Netlify and Surge.
+  * A fully responsive web application like Google Play Store.
 
 ---
 
