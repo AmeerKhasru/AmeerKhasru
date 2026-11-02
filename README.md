@@ -28,13 +28,13 @@
 
 ### 💼 Featured Projects
 
-- 🎬 **[CineTrack](https://github.com/AmeerKhasru/cinetrack)**  
+- 🎬 **[CineTrack](cine-track-by-khasru.netlify.app)**  
   * A dedicated movie wishlist and tracking application featuring dynamic routing, clean modal logic, and state management.
 
-- 📚 **[Book Vibes](https://github.com/AmeerKhasru/book-vibes)**  
+- 📚 **[Book Vibes](bookvibe-by-khasru.netlify.app)**  
   * A modern book tracking application built with React, ensuring seamless local storage persistence and clean UI components.
 
-- 🦸 **[Hero-io](https://github.com/AmeerKhasru/hero-io)**  
+- 🦸 **[Hero-io](hero-io-by-khasru.netlify.app)**  
   * A modern web application inspired by app stores, featuring dynamic content filtering, interactive UI components, and seamless deployment.
 
 ---
