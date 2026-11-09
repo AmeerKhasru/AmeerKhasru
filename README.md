@@ -45,11 +45,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmeerKhasru&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-stats-extended.vercel.app/api?username=AmeerKhasru&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  
-  <br />
-  
-  <!-- GitHub Streak Card -->
-  <img src="https://streak-stats.demolab.com/?user=AmeerKhasru&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/followers/AmeerKhasru?label=Followers&style=for-the-badge&color=0077B5&logo=github" />
+  <img src="https://img.shields.io/github/stars/AmeerKhasru?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" />
 </p>
