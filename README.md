@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Muhammad Amir Khasru
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer+(MERN);Network+Engineer+turned+Software+Engineer;React+%26+TypeScript+Enthusiast" alt="Typing SVG" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AmeerKhasru&color=blue&style=flat-square" alt="profile views" />
