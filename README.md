@@ -23,4 +23,32 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](
+| **Frontend** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend & Database** | ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) |
+| **Core Skills** | REST APIs, CRUD Operations, Authentication, Problem Solving, Responsive Design |
+
+---
+
+### 💼 Featured Projects
+
+- 🎬 **[CineTrack](https://cine-track-by-khasru.netlify.app)**  
+  * A dedicated movie wishlist and tracking application featuring dynamic routing, clean modal logic, and state management.
+
+- 📚 **[Book Vibes](https://bookvibe-by-khasru.netlify.app)**  
+  * A modern book tracking application built with React, ensuring seamless local storage persistence and clean UI components.
+
+- 🦸 **[Hero-io](https://hero-io-by-khasru.netlify.app/)**  
+  * A modern web application inspired by app stores, featuring dynamic content filtering, interactive UI components, and seamless deployment.
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmeerKhasru&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AmeerKhasru?label=Followers&style=for-the-badge&color=0077B5&logo=github" />
+  <img src="https://img.shields.io/github/stars/AmeerKhasru?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" />
+</p>
