@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 - 🌱 I’m currently transitioning into **Software Engineering** after a strong foundation in Network Engineering.
-- 🌐 Explore my portfolio and live projects at **[khasruportfolio.netlify.app](https://khasruportfolio.netlify.app/)**.
+- 🌐 Explore my portfolio and live projects at **[khasruportfolio.netlify.app](https://amirkhasruportfolio.netlify.app/)**.
 - 💡 Passionate about building responsive, user-centric web applications and learning modern web technologies.
 - 🎓 Graduate in Computer Science and Engineering (CSE) from BGC Trust University Bangladesh.
 - 🤝 Actively involved in community leadership, serving as Publicity and Publication Secretary of the CSE Alumni Association (BGCTUB) and Financial Secretary of Rotaract Club Metrocity Chittagong.
