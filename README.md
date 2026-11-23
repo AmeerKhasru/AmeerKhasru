@@ -19,15 +19,13 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,vite,netlify&perline=9" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,tailwind,nodejs,express,mongodb,postgres,jwt,git,github,vscode,vite,netlify&perline=10" alt="Tech Stack Icons" />
   </a>
 </p>
-
-**Core Skills:** REST APIs, CRUD Operations, JWT Authentication, Problem Solving, Responsive Design
 
 ---
 
