@@ -21,26 +21,13 @@
 
 ### 🛠️ Tech Stack & Skills
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,vite,netlify&perline=7" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,vite,netlify&perline=9" alt="Tech Stack Icons" />
   </a>
 </p>
 
 **Core Skills:** REST APIs, CRUD Operations, JWT Authentication, Problem Solving, Responsive Design
-
----
-
-### 💼 Featured Projects
-
-- 🎬 **[CineTrack](https://cine-track-by-khasru.netlify.app)**  
-  - A dedicated movie wishlist and tracking application featuring dynamic routing, clean modal logic, and state management.
-
-- 📚 **[Book Vibes](https://bookvibe-by-khasru.netlify.app)**  
-  - A modern book tracking application built with React, ensuring seamless local storage persistence and clean UI components.
-
-- 🦸 **[Hero-io](https://hero-io-by-khasru.netlify.app/)**  
-  - A modern web application inspired by app stores, featuring dynamic content filtering, interactive UI components, and seamless deployment.
 
 ---
 
