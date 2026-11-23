@@ -65,8 +65,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,postgres&perline=6" alt="Frontend and Backend" />
   </a>
-  <br />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/24292E?viewbox=auto" width="48" height="48" alt="JWT" />
 
   <br /><br />
 
